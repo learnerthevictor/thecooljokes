@@ -1,2 +1,2 @@
-# thecooljokes
+thejokes
 just for fun
